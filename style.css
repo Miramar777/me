@@ -1,0 +1,34 @@
+.hero {
+    margin: 0;
+}
+body {
+    margin: 0;
+}
+
+#title {
+    background-image: url(./titlebackground.png);
+    display: cover;
+    background-size: 100% 100%;
+
+}
+.profile-image {
+    height: 150px;
+    width:auto;
+    border-radius: 50%;
+  }
+  
+  h2 {
+    margin-top: 20px;
+    color: rgb(114, 132, 3);
+  }
+
+  .d-block {
+    height: 250px;
+    width: auto;
+  }
+
+
+
+  .footer {
+    background-color: rgb(229, 192, 97);
+  }
